@@ -17,5 +17,7 @@ function validateForm() {
 
 function changeToRed() {
 	document.getElementById("changeRed").style.color = '#ff3232';
+	console.log("Console log statement to show that 'changeToRed' function is called");
 }
+
 console.log("This console log tests the external js");
