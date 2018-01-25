@@ -1,3 +1,15 @@
+// This is one way of commenting in JavaScript
+
+/* Here is another comment that can take
+			more
+		than
+	one
+line 
+	but
+		remember 
+			to
+				close it! */
+
 function validateForm() {
 	var firstname = document.forms["myForm"]["firstname"].value;
 	var lastname = document.forms["myForm"]["lastname"].value;
