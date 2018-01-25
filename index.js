@@ -29,3 +29,7 @@ function changeToRed() {
 }
 
 console.log("This console log tests the external js");
+
+function showImage() {
+	document.getElementById("kittens").style.display = 'block';
+}
