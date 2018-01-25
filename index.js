@@ -18,3 +18,4 @@ function validateForm() {
 function changeToRed() {
 	document.getElementById("changeRed").style.color = '#ff3232';
 }
+console.log("This console log tests the external js");
