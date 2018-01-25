@@ -1,7 +1,3 @@
-function myName() {
-	return "Patrick"
-}
-
 function validateForm() {
 	var firstname = document.forms["myForm"]["firstname"].value;
 	var lastname = document.forms["myForm"]["lastname"].value;
