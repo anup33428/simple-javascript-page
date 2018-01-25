@@ -14,3 +14,7 @@ function validateForm() {
 		return true;
 	}
 }
+
+function changeToRed() {
+	document.getElementById("changeRed").style.color = '#ff3232';
+}
