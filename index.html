@@ -9,14 +9,14 @@
 	<body>
 		<h1>Simple Webpage Home</h1>
 		<p>This is a paragraph</p>
-		<form>
+		<form name="myForm" onsubmit="return validateForm()">
 			First name: <br>
 			<input type="text" name="firstname">
 			<br>
 			Last name: <br>
 			<input type="text" name="lastname">
 			<br><br>
-			<button onclick="document.getElementById('demo').innerHTML=myName()">Submit</button>
+			<input type="submit" value="Submit">
 		</form>
 		<p id="demo"></p>
 		<script src="index.js">
