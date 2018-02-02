@@ -1,6 +1,20 @@
+# Welcome to JavaScript Training!
 
+This repo contains a working web page built with simple HTML, CSS, and [Vanilla] JavaScript. 
 
+Feel free to use it for training or play around with it! Simply clone it or download it as a zip file.
 
+For cloning:
+
+```
+	git clone git@github.com:mcrice123/simple-javascript-page.git
+	cd simple-javascript-page
+```
+
+For downloading:
+![alt text](img/download.jpg "How To Download")
+
+You can use pretty much any text editor you want to run the page in the browser, but I'll provide some instructions on how to use a Sublime code editor for viewing this page in the browser (assuming it's already [installed](https://www.sublimetext.com/download)).
 
 
 # Viewing in Browser using Sublime Text Editor
