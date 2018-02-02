@@ -31,5 +31,9 @@ function changeToRed() {
 console.log("This console log tests the external js");
 
 function showImage() {
-	document.getElementById("kittens").style.display = 'block';
+	var elements = document.getElementsByTagName("img");
+	var index;
+	for (index = 0; index < elements.length; index++) {
+		elements[index].style.display = 'inline-block';
+	}
 }
