@@ -12,7 +12,7 @@ For cloning:
 ```
 
 For downloading:
-![alt text](img/download.jpg "How To Download")
+![alt text](https://cdn.sparkfun.com/assets/learn_tutorials/1/1/DownloadZip2.jpg "How To Download")
 
 You can use pretty much any text editor you want to run the page in the browser, but I'll provide some instructions on how to use a Sublime code editor for viewing this page in the browser (assuming it's already [installed](https://www.sublimetext.com/download)).
 
